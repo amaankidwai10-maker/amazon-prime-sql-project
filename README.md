@@ -129,31 +129,35 @@ The following analyses were performed:
 - Window functions were used to rank content based on release year for advanced SQL analysis.
 
 ---
-
 # Sample Query Outputs
 
 ## Movies vs TV Shows Distribution
-
 ![Movies vs TV Shows](screenshots/movies_vs_tvshows.png)
 
 ---
 
 ## Top Contributing Countries
-
 ![Top Countries](screenshots/top_countries.png)
 
 ---
 
-## Longest Movies Analysis
+## Ratings Distribution
+![Ratings Distribution](screenshots/ratings_distribution.png)
 
+---
+
+## Longest Movies Analysis
 ![Longest Movies](screenshots/longest_movies.png)
 
 ---
 
+## TV Shows With Most Seasons
+![TV Shows With Most Seasons](screenshots/top_tvshows_seasons.png)
+
+---
+
 ## Window Function Ranking
-
 ![Window Function Ranking](screenshots/window_function_rank.png)
-
 ---
 
 # Future Improvements
