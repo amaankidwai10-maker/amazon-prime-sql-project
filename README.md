@@ -131,6 +131,11 @@ The following analyses were performed:
 ---
 # Sample Query Outputs
 
+## Dataset Preview
+![Dataset Preview](screenshots/dataset_preview.png)
+
+---
+
 ## Movies vs TV Shows Distribution
 ![Movies vs TV Shows](screenshots/movies_vs_tvshows.png)
 
@@ -157,7 +162,7 @@ The following analyses were performed:
 ---
 
 ## Window Function Ranking
-![Window Function Ranking](screenshots/window_function_rank.png)
+![Window Function Ranking](screenshots/window_function_rank.png)---
 ---
 
 # Future Improvements
