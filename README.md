@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes Amazon Prime Video content using MySQL and SQL analytics techniques. The project includes data cleaning, exploratory data analysis (EDA), feature engineering, business problem solving, and advanced SQL queries.
 
-The objective of this project is to extract meaningful insights from the Amazon Prime Movies and TV Shows dataset while demonstrating practical SQL skills used in real-world analytics workflows..
+The objective of this project is to extract meaningful insights from the Amazon Prime Movies and TV Shows dataset while demonstrating practical SQL skills used in real-world analytics workflows.
 
 # Power BI Dashboard
 
